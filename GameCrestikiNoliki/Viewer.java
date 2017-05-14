@@ -9,7 +9,7 @@ public class Viewer extends JFrame implements ActionListener {
 
     public Viewer(){
         
-        this.setTitle("Крестики нолики");
+       /* this.setTitle("Крестики нолики");
 	this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	this.setLocationRelativeTo(null);
 	this.setSize(400,400);
@@ -60,7 +60,7 @@ public class Viewer extends JFrame implements ActionListener {
 	}
 
 
-
+	*/
     }
 
 
@@ -68,3 +68,4 @@ public class Viewer extends JFrame implements ActionListener {
 
 }
 
+        
